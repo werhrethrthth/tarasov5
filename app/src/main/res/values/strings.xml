@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="Фото">Фото</string>
+    <string name="name">Имя: Артем</string>
+    <string name="profile_name" />
+    <string name="fon" />
+    <string name="age">Возраст: 20</string>
+    <string name="spec">Специализация: Инженер</string>
+    <string name="foto">Фото</string>
+    <string name="proekt">Проект\n</string>
+    <string name="dost">Достижение</string>
+    <string name="fotki" />
+</resources>
